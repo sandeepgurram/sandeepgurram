@@ -18,28 +18,24 @@ I'm a seasoned developer with 10+ years of experience delivering robust, scalabl
 ## 🌟 Featured Projects
 
 ### 🎓 [OutSkill](https://apps.apple.com/in/app/growthschool-online-courses/id6451403519)  
-Microlearning app integrating Mixpanel, Google Analytics, and REST APIs. Led a team, built base architecture, integrated third-party SDKs.
+A microlearning app featuring Mixpanel, WebEngage, and REST APIs. I led the mobile team, implemented BLoC architecture, and deployed it to production.
+
+![OutSkill Screenshot](images/outskill.png)
 
 ### 🎬 [Plan Your Shoot](http://www.planyourshoot.com)  
-A filmmaker community platform with real-time chat, Firebase backend, and RxDart. Conceptualized, designed, and developed end-to-end.
+A community platform for filmmakers with real-time Firebase chat and RxDart integration. Built from scratch including backend setup.
 
-### 🧘‍♂️ [One Lost Village](https://play.google.com/store/apps/details?id=com.block.onelostvillage)  
-Social wellness app with subscription access and Firebase integration. Built for community connections with secure, real-time backend.
-
-### 🔮 [Bodhi](https://play.google.com/store/apps/details?id=com.rs.bodhi)  
-Astrology app with custom animation and Flutter BLoC. Built daily horoscope tab with REST API integration.
-
-### 🛵 [Bounce](https://play.google.com/store/apps/details?id=com.metrobikes.app)  
-Bike rental app with multi-gateway payments and MVVM architecture. Migrated from Flutter 1 to 2, added localization and plugins.
-
-### 🎯 [Gorout Diamond](https://gorout.com/baseball/) / [Gridiron](https://gorout.com/football/in-game/)  
-Flutter web and mobile apps for real-time team communication. Integrated Firebase Auth, GetX, REST APIs.
+![Plan Your Shoot Screenshot](images/planyourshoot.png)
 
 ### 🎥 [Flick](https://apps.apple.com/in/app/flick-learning-app/id6740239655)  
-1-minute video learning app with OTPless login, Razorpay integration, and dynamic backend sync.
+A fast-paced learning app using OTPless login and Razorpay. Focused on delivering 1-minute video reels with clean UI from Figma designs.
+
+![Flick Screenshot](images/flick.png)
 
 ### 📘 [Jazzee Attendance](https://apps.apple.com/us/app/jazzee-faculty/id6742661280)  
-Smart attendance system with Firebase, Excel reports, and Bluetooth/OTPless-based presence detection.
+A smart attendance app for educators using Firebase, Bluetooth, and Excel-based analytics. Designed to prevent proxy and automate reports.
+
+![Jazzee Screenshot](images/jazzee.png)
 
 ---
 
@@ -59,11 +55,14 @@ Smart attendance system with Firebase, Excel reports, and Bluetooth/OTPless-base
 
 ---
 
-## 📫 Connect with Me
-**Email:** sandeepgurram810@gmail.com  
-**Portfolio:** [linktr.ee/sandeepgurram](https://linktr.ee/sandeepgurram)  
-**LinkedIn:** [linkedin.com/in/sandeepgurram](https://linkedin.com/in/sandeepgurram)
+## 📄 Explore My Developer Profile
+[View Online](https://docs.google.com/document/d/e/2PACX-1vRwLjbwttFi2EZxsxpRZyJ93tBeSvmT8zFG93AeEnXS7z5pV0qpWu5QhN8f90-60DmOM3keXiLgLT7h/pub)(https://docs.google.com/document/d/e/2PACX-1vRwLjbwttFi2EZxsxpRZyJ93tBeSvmT8zFG93AeEnXS7z5pV0qpWu5QhN8f90-60DmOM3keXiLgLT7h/pub)
 
 ---
 
-_“I'm new to GitHub freelancing but bring 10+ years of proven mobile experience. Let's create something meaningful together!”_
+## 📫 Connect with Me
+**Email:** sandeepgurram810@gmail.com  
+**WhatsApp:** [Chat on WhatsApp](https://wa.me/919000324143)  
+**LinkedIn:** [linkedin.com/in/sandeepgurram](https://linkedin.com/in/sandeepgurram)
+
+---
