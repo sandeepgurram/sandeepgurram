@@ -68,7 +68,9 @@ A smart attendance app for educators using Firebase, Bluetooth, and Excel-based 
 ---
 
 ## 📄 Explore My Developer Profile
-[View Online](https://docs.google.com/document/d/e/2PACX-1vRwLjbwttFi2EZxsxpRZyJ93tBeSvmT8zFG93AeEnXS7z5pV0qpWu5QhN8f90-60DmOM3keXiLgLT7h/pub)
+
+[Work Highlights](https://docs.google.com/document/d/e/2PACX-1vRwLjbwttFi2EZxsxpRZyJ93tBeSvmT8zFG93AeEnXS7z5pV0qpWu5QhN8f90-60DmOM3keXiLgLT7h/pub)
+
 [Medium Articles](https://medium.com/@SandeepGurram)
 
 ---
