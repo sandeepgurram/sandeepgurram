@@ -56,20 +56,21 @@ A community platform for filmmakers with real-time Firebase chat and RxDart inte
 <img src="images/plan_3.png" width="18%" style="margin-right: 8px;"/>
 </p>
 
+## 📄 Explore My Developer Profile
+
+[Dive Deeper Into My Work](https://docs.google.com/document/d/e/2PACX-1vRwLjbwttFi2EZxsxpRZyJ93tBeSvmT8zFG93AeEnXS7z5pV0qpWu5QhN8f90-60DmOM3keXiLgLT7h/pub)  
+
+
+[Checkout my Medium Articles](https://medium.com/@SandeepGurram)
+
+
 ## 🌱 Currently Open To
 - Freelance Flutter & Backend Projects
 - AI-Integrated App Development
 - Firebase Migrations, Performance Tuning
 
-## 📄 Explore My Developer Profile
-
-📝 [My Dev Career](https://docs.google.com/document/d/e/2PACX-1vRwLjbwttFi2EZxsxpRZyJ93tBeSvmT8zFG93AeEnXS7z5pV0qpWu5QhN8f90-60DmOM3keXiLgLT7h/pub)
-
-✍️ [Medium](https://medium.com/@SandeepGurram)
-
 
 ## 📫 Connect with Me
 📧 sandeepgurram810@gmail.com  
 💬 [Chat on WhatsApp](https://wa.me/919000324143)  
-🔗 [linkedin.com/in/sandeepgurram](https://linkedin.com/in/sandeepgurram)
 
