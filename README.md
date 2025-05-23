@@ -18,24 +18,36 @@ I'm a seasoned developer with 10+ years of experience delivering robust, scalabl
 ## 🌟 Featured Projects
 
 ### 🎓 [OutSkill](https://apps.apple.com/in/app/growthschool-online-courses/id6451403519)  
-A microlearning app featuring Mixpanel, WebEngage, and REST APIs. I led the mobile team, implemented BLoC architecture, and deployed it to production.
+A microlearning app featuring Mixpanel, WebEngage, and REST APIs. I led the mobile team, implemented BLoC architecture, and deployed it to production.  
+[Google Play](https://play.google.com/store/apps/details?id=io.growthschool) | [App Store](https://apps.apple.com/in/app/growthschool-online-courses/id6451403519) | [Website](https://growthschool.io/)
 
-![OutSkill Screenshot](images/outskill.png)
+![OutSkill Screenshot 1](images/outskill1.png)  
+![OutSkill Screenshot 2](images/outskill2.png)  
+![OutSkill Screenshot 3](images/outskill3.png)
 
 ### 🎬 [Plan Your Shoot](http://www.planyourshoot.com)  
-A community platform for filmmakers with real-time Firebase chat and RxDart integration. Built from scratch including backend setup.
+A community platform for filmmakers with real-time Firebase chat and RxDart integration. Built from scratch including backend setup.  
+[Google Play](https://play.google.com/store/apps/details?id=com.thasan.plan_your_shoot) | [Website](http://www.planyourshoot.com)
 
-![Plan Your Shoot Screenshot](images/planyourshoot.png)
+![Plan Your Shoot Screenshot 1](images/pys1.png)  
+![Plan Your Shoot Screenshot 2](images/pys2.png)  
+![Plan Your Shoot Screenshot 3](images/pys3.png)
 
 ### 🎥 [Flick](https://apps.apple.com/in/app/flick-learning-app/id6740239655)  
-A fast-paced learning app using OTPless login and Razorpay. Focused on delivering 1-minute video reels with clean UI from Figma designs.
+A fast-paced learning app using OTPless login and Razorpay. Focused on delivering 1-minute video reels with clean UI from Figma designs.  
+[App Store](https://apps.apple.com/in/app/flick-learning-app/id6740239655)
 
-![Flick Screenshot](images/flick.png)
+![Flick Screenshot 1](images/flick1.png)  
+![Flick Screenshot 2](images/flick2.png)  
+![Flick Screenshot 3](images/flick3.png)
 
 ### 📘 [Jazzee Attendance](https://apps.apple.com/us/app/jazzee-faculty/id6742661280)  
-A smart attendance app for educators using Firebase, Bluetooth, and Excel-based analytics. Designed to prevent proxy and automate reports.
+A smart attendance app for educators using Firebase, Bluetooth, and Excel-based analytics. Designed to prevent proxy and automate reports.  
+[Google Play](https://play.google.com/store/apps/details?id=jazzee.edtech.faculty) | [App Store](https://apps.apple.com/us/app/jazzee-faculty/id6742661280)
 
-![Jazzee Screenshot](images/jazzee.png)
+![Jazzee Screenshot 1](images/jazzee1.png)  
+![Jazzee Screenshot 2](images/jazzee2.png)  
+![Jazzee Screenshot 3](images/jazzee3.png)
 
 ---
 
@@ -56,7 +68,7 @@ A smart attendance app for educators using Firebase, Bluetooth, and Excel-based 
 ---
 
 ## 📄 Explore My Developer Profile
-[View Online](https://docs.google.com/document/d/e/2PACX-1vRwLjbwttFi2EZxsxpRZyJ93tBeSvmT8zFG93AeEnXS7z5pV0qpWu5QhN8f90-60DmOM3keXiLgLT7h/pub)(https://docs.google.com/document/d/e/2PACX-1vRwLjbwttFi2EZxsxpRZyJ93tBeSvmT8zFG93AeEnXS7z5pV0qpWu5QhN8f90-60DmOM3keXiLgLT7h/pub)
+[View Online](https://docs.google.com/document/d/e/2PACX-1vRwLjbwttFi2EZxsxpRZyJ93tBeSvmT8zFG93AeEnXS7z5pV0qpWu5QhN8f90-60DmOM3keXiLgLT7h/pub)
 
 ---
 
